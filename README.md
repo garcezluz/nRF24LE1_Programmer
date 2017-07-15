@@ -4,6 +4,7 @@ Arduino Programmer for Nordic - nRF24LE1 with Uart Comunication (NRF <--> PC)
 Upload the sketch to your Arduino (Nano v3.0 / Ide 1.8.1 or latter: https://www.arduino.cc/en/main/software) and connect SPI from Nano to nRF24LE1 board (see Schematic.pdf).
 
 Programmer.exe: (Compile with DEV-C++ for windows: http://www.bloodshed.net/download.html or https://sourceforge.net/projects/orwelldevcpp/files/latest/download)
+
 Uploads .hex file into nRF24LE1 via Arduino
 
 Usage: programmer.exe \\.\COM13 CMD filename.hex
